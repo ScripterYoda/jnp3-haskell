@@ -151,10 +151,10 @@ Natomiast `x=1` nie jest wyrażeniem - jest definicją.
 
 Szczególnym rodzajem wyrażeń są *funkcje*. Podstawową operacją którą możemy wykonać przy pomocy funkcji jest zastosowanie jej do argumentów, Na przykład
 
-* `rectangle` jest funkcją. Dostawszy wysokość i szerokość, produkuje obraz (prostokąt)
-* `light` jest funkcją. Dostawszy kolor, produkuje (podobny, ale jaśniejszy) kolor. 
-* `drawingOf` jest funkcją. Dostawszy  obraz, konstruuje program, który rysuje ten obraz.
-* `id` jest funkcją identycznościową
+* `rectangle` jest funkcją. Dostawszy wysokość i szerokość, produkuje obraz (prostokąt),
+* `light` jest funkcją. Dostawszy kolor, produkuje (podobny, ale jaśniejszy) kolor,
+* `drawingOf` jest funkcją. Dostawszy  obraz, konstruuje program, który rysuje ten obraz,
+* `id` jest funkcją identycznościową.
 
 Skoro funkcje są wyrażeniami to czy moga stać po prawej stronie definicji i być argumentami dla funkcji? Ależ tak:
 
